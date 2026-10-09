@@ -6,5 +6,5 @@
 // Ver README.md, paso 2.
 
 window.SIMULADOR_CONFIG = {
-  urlRegistros: ""
+  urlRegistros: "https://script.google.com/macros/s/AKfycbxXSna02sxmBFlOqriZW5dmZuamX_gSKCaxzQ9FixbddPfAe5ccO1H3faPSw4L0FYkJWQ/exec"
 };
